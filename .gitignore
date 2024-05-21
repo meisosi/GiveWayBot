@@ -1,0 +1,33 @@
+# Переменные среды
+*.env
+package-lock.json
+
+# Зависимости
+node_modules/
+
+
+# Логи
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Данные испольнения
+pids
+*.pid
+*.seed
+*.pid.lock
+
+
+# Билд
+build
+*.tsbuildinfo
+
+# Кэш
+.npm
+.eslintcache
+.temp
+.cache
