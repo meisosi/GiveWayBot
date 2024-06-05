@@ -1,4 +1,4 @@
-<h1 align="center">Just a giveway bot</h1>
+<h1 align="center">Just a giveaway bot</h1>
 
 Bot based on [grammY](https://grammy.dev/) 
 
